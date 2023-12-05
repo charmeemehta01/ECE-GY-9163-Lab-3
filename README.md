@@ -19,7 +19,7 @@ Data can be downloaded from this link: https://drive.google.com/drive/folders/1R
 
 Instructions
 Launch a Jupyter Notebook environment.
-Open the lab3.ipynb and lab3-extra-asc.ipynb file.
+Open the Assignment 4.ipynb file.
 Ensure the file paths for data and models are accurately set in the code to avoid any path-related issues.
 Execute the code cells in sequence to observe the results.
 
@@ -27,4 +27,4 @@ Dependencies
 Ensure all necessary dependencies, such as Python libraries (e.g., NumPy, Pandas, Matplotlib, seaborn, etc.) and machine learning frameworks (e.g., TensorFlow, Keras), are installed in your environment before running the code.
 
 Outputs
-The lab report is available under 'cm6389_ECE-GY-9163-Lab3-report.pdf'.
+The lab report is available under 'cm6389_report.pdf'.
