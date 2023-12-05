@@ -1,6 +1,6 @@
-# ECE-GY-9163-Lab-3 by Charmee Mehta (cm6389)
+# ECE-GY-9163-Assignment-4 by Charmee Mehta (cm6389)
 
-To run the code, open the lab3.ipynb and lab3-extra-asc notebook in a jupyter environment. Use of a local Jupyter Notebook setup due to the substantial storage and RAM requirements is recommended.
+To run the code, open the Assignment 4.ipynb in a jupyter environment. Use of a local Jupyter Notebook setup due to the substantial storage and RAM requirements is recommended.
 
 File Structure:
 Data can be downloaded from this link: https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq
